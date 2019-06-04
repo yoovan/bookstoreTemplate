@@ -1,5 +1,5 @@
 # bookstoreTemplate
-> 参考 https://github.com/houlongchao/BookStoreTemp 做了一些定制化的添加和改进的书店模板，课程设计项目，不维护
+> 参考 https://github.com/houlongchao/BookStoreTemp 做了一些定制化的添加和改进的书店模板
 
 #### 修改说明
 1、新增主页轮播图，修改顶部导航栏结构 <br>
@@ -9,3 +9,5 @@
 5、优化购物车展示样式，使用响应式表格 <br>
 6、填充个人中心的信息修改、密码修改和订单管理页面，优化样式<br>
 7、填充商品详情页，优化样式，增加轮播图
+
+**课程设计项目，不维护，希望能够帮助到有需要的童鞋**
